@@ -37,3 +37,26 @@ The typeof operator returns a string indicating the type of the unevaluated oper
 The void operator specifies an expression to be evaluated without returning a value. expression is a JavaScript expression to evaluate. The parentheses surrounding the expression are optional, but it is good style to use them.
 #### Relational operators
 A relational operator compares its operands and returns a Boolean value based on whether the comparison is true.
+
+
+# Loops
+There is many different kinds of loops , like
+
+## FOR
+## do...while
+but after all they are all doing the same thing which is repeating an action some number of times.
+
+for statement
+A for loop repeats until a specified condition evaluates to false.
+
+for ([initialExpression]; [conditionExpression]; [incrementExpression]) statement
+for example
+
+function howMany(selectObject) { let numberSelected = 0; for (let i = 0; i < selectObject.options.length; i++) { if (selectObject.options[i].selected) { numberSelected++; } } return numberSelected; }
+do...while statement
+The do...while statement will keep repeating the code within the do block, until a specified condition evaluates to false .
+
+do statement while (condition);
+for example
+
+let i = 0; do { i += 1; console.log(i); } while (i < 5);
