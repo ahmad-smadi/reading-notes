@@ -4,7 +4,7 @@ My name is Ahmad Smadi , im 28 years old , i gradeuted 2016 from unversity of jo
 
 | name | link  | 
 | ------|------- |
-| lab01b   |[grwoth](growth.md) |
+| lab01b   |[grwoth](growth) |
 |read01    |[markdown](readme1)  |
 | readme2  |[readme2](readme2) | 
 | reading02|[reading02](reading02) |
