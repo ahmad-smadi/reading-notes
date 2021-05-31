@@ -11,3 +11,5 @@ My name is Ahmad Smadi , im 28 years old , i gradeuted 2016 from unversity of jo
 | read03   |[read03](read03) |
 | read04   |[read04](read04) | 
 | read05   |[read05](read05)  |
+| read06   |[read06](read06)  |
+|  read06b |[read06b](read06b) |
